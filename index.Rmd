@@ -1,0 +1,44 @@
+--- 
+title: "R/Python/Rust coding day"
+author: "Shamit Soneji"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+#output: bookdown::gitbook
+#output:
+#  bookdown::html_book:
+#    theme: flatly
+#    code_folding: hide
+output:
+  html_document:
+    code_folding: show
+    toc: true
+    toc_float: true
+    theme: united
+    highlight: tango
+
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Introduction
+
+Many of us use a single language (usually R or Python) with rudimentary knowledge of a second. Moreover, most of us rarely use a compiled language such as C/C++/Rust which can be very useful to know if something needs to be done quickly. I'm guessing many use R a lot, but would like a better working knowledge of Python.
+
+
+## So what's the idea?
+
+The idea is to have an away day for **capable** coders to program the same algorithm in three different languages, R, Python, and Rust. Rust has been gaining popularity at an impressive rate and has been used to create Cellranger and the Alevin-Fry suite which is why we have chosen it here.
+
+Each language will be led by a local expert (to be decided), but given Stefan is the only person who can code Rust (to the best of my knowledge) he will lead this section. The theory is that by tacking the same problem three times, we should gain a better understanding of each language, as opposed to running through "Hello world" tutorials online that go at a glacial pace.
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
