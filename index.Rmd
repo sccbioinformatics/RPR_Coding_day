@@ -31,9 +31,9 @@ Many of us use a single language (usually R or Python) with rudimentary knowledg
 
 ## So what's the idea?
 
-The idea is to have an away day for **capable** coders to program the same algorithm in three different languages, R, Python, and Rust. Rust has been gaining popularity at an impressive rate and has been used to create Cellranger and the Alevin-Fry suite which is why we have chosen it here.
+The idea is to have an away day for **capable** coders to program the same algorithm in three different languages, R, Python, and Rust. Rust has been gaining popularity at an impressive rate and has been used to create Cellranger and the Alevin-Fry suite, which is why we have chosen it here.
 
-Each language will be led by a local expert (to be decided), but given Stefan is the only person who can code Rust (to the best of my knowledge) he will lead this section. The theory is that by tacking the same problem three times, we should gain a better understanding of each language, as opposed to running through "Hello world" tutorials online that go at a glacial pace.
+Each language will be led by a local expert (to be decided), but given Stefan is the only person who can code Rust (to the best of my knowledge) so he will lead this section. The theory is that by tackling the same problem three times, we should gain a better understanding of each language, as opposed to running through "Hello world" tutorials online that go at a glacial pace.
 
 
 ```{r include=FALSE}

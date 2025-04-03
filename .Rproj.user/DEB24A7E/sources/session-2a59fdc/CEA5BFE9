@@ -3,7 +3,7 @@
     "path": "~/Git/RPR_Coding_day/01-FinalProject.Rmd",
     "project_path": "01-FinalProject.Rmd",
     "type": "r_markdown",
-    "hash": "355700753",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1743409735532.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "84,59",
-        "scrollLine": "52"
+        "cursorPosition": "4,94",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1743665583,
+    "lastKnownWriteTime": 1743666882,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1743665583014,
+    "last_content_update": 1743666882558,
     "read_only": false,
     "read_only_alternatives": []
 }
